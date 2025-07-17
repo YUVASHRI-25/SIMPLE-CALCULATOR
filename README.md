@@ -38,7 +38,8 @@ int main()
     
     return 0;
 }
-/*#include <float.h>
+ANOTHER METHOD:
+#include <float.h>
 #include <stdio.h>
 
 int main()
@@ -70,5 +71,5 @@ int main()
         printf("Result: %.2lf\n", ans);
 
     return 0;
-}*/
+}
 
