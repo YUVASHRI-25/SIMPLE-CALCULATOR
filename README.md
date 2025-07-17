@@ -3,12 +3,15 @@ BY C PROGRAMMING LANGUAGE
 
 #include <stdio.h>
 #include <float.h>
+
 int main() 
 {
     char op;
     double a, b, ans;
+    
     printf("Enter an operator (+, -, *, /): ");
     scanf("%c", &op);
+    
     printf("Enter two operands: ");
     scanf("%lf %lf", &a, &b);
     
